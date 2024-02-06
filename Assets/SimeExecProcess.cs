@@ -111,6 +111,9 @@ public class SimeExecProcess : MonoBehaviour ///Initializations
         ///return driver current location 
   }
 
+
+
+
   public void PickupLocation()
   {
         ///return rider pickup location
@@ -151,8 +154,6 @@ public class Riders
 public class Driver
 {
      public double Earnings;
-
      public int AvgRating;
-
      public int FuelSpent; 
 }
